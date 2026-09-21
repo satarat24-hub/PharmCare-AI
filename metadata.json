@@ -1,0 +1,6 @@
+{
+  "name": "PharmCare AI - ระบบเภสัชกรรมบริบาล & หอผู้ป่วย",
+  "description": "ระบบ AI ผู้เชี่ยวชาญด้านเภสัชกรรมบริบาล ปรับขนาดยา ตรวจสอบ DRP และ Medication Error ตรวจสอบการจัดเก็บยา ให้คำปรึกษายาเทคนิคพิเศษ บันทึกกิจกรรมหอผู้ป่วย ส่งต่อ Google Sheet และ Real-time Executive Dashboard",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
